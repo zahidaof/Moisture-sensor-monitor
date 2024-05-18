@@ -13,7 +13,7 @@ void setup() {
     lcd.setCursor(0,0);
     lcd.print(" Soil Moisture ");
     pinMode(A1, INPUT);
-    pinMode(12, OUTPUT); // Corrected typo: '12d1' to '12'
+    pinMode(12, OUTPUT); 
 }
 
 void setup() {
