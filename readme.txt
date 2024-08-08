@@ -32,5 +32,4 @@ This project is open-source and available under the MIT License.
 
 ## Acknowledgments
 - Thanks to the Arduino community for support and inspiration.
-- Special thanks to zahid for initiating this project.
 
